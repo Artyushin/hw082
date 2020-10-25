@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kielen vaihtaminen</string>
+    <string name="text_translation">Mobiilisovellus on tulossa kansainvälisille markkinoille,
+        se tarvitsee lokalisointia eri kielille</string>
+    <string name="language_button">Kielen vaihtaminen</string>
+    <string-array name="languageSpinner">
+        <item>Venäjä</item>
+        <item>Englanti</item>
+        <item>Suomalainen</item>
+    </string-array>
+</resources>

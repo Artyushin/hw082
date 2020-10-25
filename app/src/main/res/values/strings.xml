@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Переключение языка</string>
+    <string name="text_translation">Мобильное приложение выходит на международный рынок,
+        ему нужна локализация под разные языки</string>
+    <string name="language_button">Сменить язык</string>
+    <string-array name="languageSpinner">
+        <item>Английский</item>
+        <item>Русский</item>
+        <item>Финский</item>
+    </string-array>
+</resources>
